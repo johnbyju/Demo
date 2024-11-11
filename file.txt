@@ -1,0 +1,7 @@
+event-image {
+    width: 150px;
+    height: 96px;
+    margin-top: 10px;
+}
+
+text width removed
